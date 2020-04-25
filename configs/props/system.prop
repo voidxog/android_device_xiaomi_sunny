@@ -4,6 +4,9 @@ ro.launcher.blur.appLaunch=0
 # Bluetooth
 vendor.bluetooth.soc=cherokee
 
+# Dalvik
+dalvik.vm.dex2oat64.enabled=true
+
 # Display
 debug.force_no_blanking=true
 
