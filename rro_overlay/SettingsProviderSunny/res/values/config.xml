@@ -19,4 +19,10 @@
 <resources>
     <!-- Set the automatic brightness mode on by default -->
     <bool name="def_screen_brightness_automatic_mode">false</bool>
+
+    <!-- Default for Settings.Global.DEVICE_NAME $1=MANUFACTURER $2=MODEL-->
+    <string name="def_device_name">Xiaomi Redmi Note 10</string>
+
+    <!-- Default for Settings.Global.DEVICE_NAME $1=MODEL-->
+    <string name="def_device_name_simple">Redmi Note 10</string>
 </resources>
