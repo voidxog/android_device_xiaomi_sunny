@@ -1,8 +1,8 @@
 #
-# Copyright (C) 2021 The PixelExperience Project
+# Copyright (C) The LineageOS Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/custom_sunny.mk
+    $(LOCAL_DIR)/lineage_sunny.mk

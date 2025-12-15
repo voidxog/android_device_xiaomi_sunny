@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2021 The PixelExperience Project
+# Copyright (C) The LineageOS Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
@@ -57,7 +57,7 @@ TARGET_OTA_ASSERT_DEVICE := mojito|sunny|mojito_global|sunny_global
 TARGET_SCREEN_DENSITY := 440
 
 # Filesystem
-TARGET_FS_CONFIG_GEN := $(DEVICE_PATH)/config.fs
+TARGET_FS_CONFIG_GEN := $(DEVICE_PATH)/configs/config.fs
 
 # GPS
 BOARD_VENDOR_QCOM_GPS_LOC_API_HARDWARE := default

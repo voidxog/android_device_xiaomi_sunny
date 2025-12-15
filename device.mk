@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2021 The PixelExperience Project
+# Copyright (C) The LineageOS Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
@@ -277,17 +277,16 @@ PRODUCT_COPY_FILES += \
 
 # Overlay
 PRODUCT_PACKAGES += \
-    ApertureSunny \
-    CarrierConfigSunny \
-    DisplayFeaturesSunny \
-    FrameworksSunny \
-    SettingsProviderSunny \
-    SettingsSunny \
-    SystemUISunny \
-    TelephonySunny \
-    WifiSunny \
-    SettingsOverlayM2101K7AG \
-    SettingsOverlayM2101K7AI
+    ApertureOverlaySunny \
+    CarrierConfigOverlaySunny \
+    DisplayFeaturesOverlaySunny \
+    FrameworkResOverlaySunny \
+    LineageSDKOverlaySunny \
+    SettingsOverlaySunny \
+    SettingsProviderOverlaySunny \
+    SystemUIOverlaySunny \
+    TelephonyOverlaySunny \
+    WifiResourcesOverlaySunny
 
 # Partitions
 PRODUCT_PACKAGES += \
