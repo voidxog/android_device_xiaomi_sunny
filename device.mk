@@ -282,6 +282,7 @@ PRODUCT_PACKAGES += \
     DisplayFeaturesOverlaySunny \
     FrameworkResOverlaySunny \
     LineageSDKOverlaySunny \
+    LineageSettingsOverlaySunny \
     SettingsOverlaySunny \
     SettingsProviderOverlaySunny \
     SystemUIOverlaySunny \
