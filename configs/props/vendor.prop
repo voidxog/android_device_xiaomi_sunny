@@ -171,14 +171,10 @@ vendor.gralloc.disable_ubwc=0
 persist.vendor.fingerprint.type=side
 persist.vendor.fingerprint.sensor_location=1080|925|115|local:4630946773257169537
 
-# FRP
-ro.frp.pst=/dev/block/bootdevice/by-name/frp
-
 # HVDCP
 persist.vendor.cp.fcc_main_ua=400000
 persist.vendor.cp.taper_term_mv=6500
 persist.vendor.cp.vbus_offset_mv=1040
-
 
 # HWUI
 debug.hwui.target_cpu_time_percent=30
